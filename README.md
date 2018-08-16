@@ -1,5 +1,5 @@
 # ThuVienBao Truyện Scraper
-<strong>ThuVienBao Truyện Scraper v1.2</strong>
+<strong>ThuVienBao Truyện Scraper v1.2 **BETA**</strong>
 Tool để lấy text và raw html từ các websites truyện phổ biến.
 <h2>Supported sites:</h2>
 <ul>
@@ -19,7 +19,8 @@ Tool để lấy text và raw html từ các websites truyện phổ biến.
  	<li>Tự động lọc text rác bằng regular expression, có thể lọc được hầu hết text rác trừ những cái mới ra chưa update. Dự tính sẽ làm thêm 1 bộ custom regex để người dùng tự thêm.</li>
 </ul>
 <h2>Notes:</h2>
-Lưu ý dành cho <strong>wattpad</strong>: Vì site này xài JavaScript &amp; AJAX cho text nên HTTP GET thường không có lấy được nhé, thay vào đó phải xài qua <a href="https://sites.google.com/a/chromium.org/chromedriver/downloads">ChromeDriver</a>. Bạn cần download thêm <strong><a href="https://sites.google.com/a/chromium.org/chromedriver/downloads">ChromeDriver.</a> </strong>Extract <code>chromedriver.exe</code> rồi copy vào <code>C:\Windows</code>. Muốn biết thêm chi tiết về ChromeDriver có thể vào homepage tại https://sites.google.com/a/chromium.org/chromedriver/. Khi chạy chương trình bạn sẽ thấy Chrome mở lên, cứ để cho nó chạy đừng có làm gì hết.
+Lưu ý dành cho <strong>wattpad</strong>: Vì site này xài JavaScript &amp; AJAX cho text nên HTTP GET thường không có lấy được nhé, thay vào đó phải xài qua <a href="https://sites.google.com/a/chromium.org/chromedriver/downloads">ChromeDriver</a>. Bạn cần download thêm <strong><a href="https://sites.google.com/a/chromium.org/chromedriver/downloads">ChromeDriver.</a> </strong>Extract <code>chromedriver.exe</code> rồi copy vào <code>C:\Windows</code>. Muốn biết thêm chi tiết về ChromeDriver có thể vào homepage tại https://sites.google.com/a/chromium.org/chromedriver/. Khi chạy chương trình bạn sẽ thấy Chrome mở lên, cứ để cho nó chạy đừng có làm gì hết.<br>
+Tool đang còn beta nên sẽ có bug. Nhớ report dùm nhé.
 <h2>Project Homepage:</h2>
 Xin mời chư vị ủng hộ website <a href="https://truyen.thuvienbao.com/">ThuVienBao Audiobooks.</a> Nghe truyện audio tiên hiệp, huyền huyễn, ngôn tình...
 
