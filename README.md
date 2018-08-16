@@ -2,7 +2,7 @@
 <strong>ThuVienBao Truyện Scraper v1.2 **BETA**</strong><br>
 Tool để lấy text và raw html từ các websites truyện phổ biến.
 <h2>Supported sites:</h2>
-<ul>
+<ul><code>
  	<li>http://truyencv.com/xxxxx/</li>
  	<li>https://truyenyy.com/truyen/xxxxx/</li>
  	<li>https://bachngocsach.com/reader/xxxxx</li>
@@ -11,7 +11,7 @@ Tool để lấy text và raw html từ các websites truyện phổ biến.
  	<li>http://truyencuatui.net/truyen/xxxxx.html</li>
  	<li>http://webtruyen.com/xxxxx/</li>
  	<li>https://wikidich.com/truyen/xxxxx</li>
- 	<li>https://www.wattpad.com/story/xxxxx</li>
+ <li>https://www.wattpad.com/story/xxxxx</li></code>
 </ul>
 <h2>Features:</h2>
 <ul>
