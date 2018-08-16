@@ -1,5 +1,5 @@
 # ThuVienBao Truyện Scraper
-<strong>ThuVienBao Truyện Scraper v1.2 **BETA**</strong>
+<strong>ThuVienBao Truyện Scraper v1.2 **BETA**</strong><br>
 Tool để lấy text và raw html từ các websites truyện phổ biến.
 <h2>Supported sites:</h2>
 <ul>
