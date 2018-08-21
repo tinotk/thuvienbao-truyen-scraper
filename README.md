@@ -9,6 +9,7 @@ Tool để lấy text và raw html từ các websites truyện phổ biến.
 * `http://truyenfull.vn/xxxxx/`
 * `https://truyen.tangthuvien.vn/doc-truyen/xxxxx`
 * `http://truyencuatui.net/truyen/xxxxx.html`
+* `http://truyendich.com/xxxxx/`
 * `http://webtruyen.com/xxxxx/`
 * `https://wikidich.com/truyen/xxxxx`
 * `https://www.wattpad.com/story/xxxxx`
