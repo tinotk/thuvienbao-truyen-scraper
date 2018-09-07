@@ -1,11 +1,12 @@
 # ThuVienBao Truyện Scraper
-<strong>ThuVienBao Truyện Scraper v1.21 **BETA**</strong><br>
+<strong>ThuVienBao Truyện Scraper v1.22 **BETA**</strong><br>
 Tool để lấy text và raw html từ các websites truyện phổ biến.
 <h2>Supported sites:</h2>
 
 * `http://truyencv.com/xxxxx/`
 * `https://truyenyy.com/truyen/xxxxx/`
 * `https://bachngocsach.com/reader/xxxxx`
+* `https://iread.vn/xxxxx/yyy`
 * `http://truyenfull.vn/xxxxx/`
 * `https://truyen.tangthuvien.vn/doc-truyen/xxxxx`
 * `http://truyencuatui.net/truyen/xxxxx.html`
